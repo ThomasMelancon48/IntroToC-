@@ -34,8 +34,12 @@ int main()
 	std::cout << "2" << std::endl;
 	std::cout << "1" << std::endl;
 	std::cout << "0" << std::endl; 
+
+	std::cout << std::endl;
+
+	std::cout << ";)" << std::endl;
 	
-	\\School is cool
+	//School is not cool
 		
 	system("pause");
 	
