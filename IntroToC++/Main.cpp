@@ -34,9 +34,11 @@ int main()
 	std::cout << "2" << std::endl;
 	std::cout << "1" << std::endl;
 	std::cout << "0" << std::endl; 
-	system("pause");
 	
 	\\School is cool
+		
+	system("pause");
+	
 		
 	return 0;
 }
