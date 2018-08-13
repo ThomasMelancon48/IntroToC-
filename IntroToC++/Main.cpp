@@ -36,6 +36,6 @@ int main()
 	std::cout << "0" << std::endl; 
 	system("pause");
 	
-	//School is cool
+	\\School is cool
 	return 0;
 }
